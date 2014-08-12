@@ -3,8 +3,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-// Studied online samples code and implemented my own class to fit ArrayList and Item class objects 
-// to sort by transaction value.
 // Impelmented Comparator and then I override the compare method to compare Item class transactionValue.
 
 public class MergeSort implements Comparator<A2Item> {

@@ -2,7 +2,6 @@ import a2.A2Item;
 import java.util.List;
 import java.util.ArrayList;
 
-//  Customized some code from QuickSort in Java sample and course book to fit ArrayList and Item class objects.
 
 public class QuickSort {
 
